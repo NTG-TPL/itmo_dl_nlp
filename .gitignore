@@ -1,0 +1,10 @@
+.idea
+*.csv*
+*.gz
+*.tar
+*.model*
+*.ru
+*.en
+*.txt
+*/*logs
+*/__pycache__*
