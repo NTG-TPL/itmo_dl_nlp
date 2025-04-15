@@ -3,6 +3,7 @@
 *.gz
 *.tar
 *.model*
+*models*
 *.ru
 *.en
 *.txt
