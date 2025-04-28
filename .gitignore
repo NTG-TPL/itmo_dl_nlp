@@ -1,0 +1,11 @@
+.idea
+*.gz
+*.tar
+*.model*
+*logs*
+*models*
+*.csv*
+*.ru
+*.en
+*.txt
+**__pycache__**
